@@ -80,6 +80,7 @@ $RECYCLE.BIN/
 *.user
 *.userosscache
 *.sln.docstates
+*appsettings.json
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -402,4 +403,4 @@ ASALocalRun/
 .mfractor/
 
 # Local History for Visual Studio
-.localhistory/
+.localhistory/appsettings.json
